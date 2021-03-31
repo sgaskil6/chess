@@ -12,5 +12,9 @@ Rules to observe:
 
 RULES OF CHESS:
 
+MAJOR PIECES: Rook, Queen, King
+MINOR PIECES: Pawn, Knight, Bishop
+
+Possibly add example movement of each piece or include image chart 
 
 I'll use knowledge from building 'Knights Travails', a project where I built a chess game board and one single, movable knight piece.
